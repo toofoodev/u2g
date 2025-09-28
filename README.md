@@ -1,5 +1,5 @@
 # unity2grab
-## [Read Update Log](updlog.md)
+## [Read Update Log](updates.md)
 unity2grab is a tool for Unity Engine to take user made content and put it in a .json file that can be put into a .level file, so you can load the level in GRAB.
 <br>
 Note: The owner of this tool used AI to make this. I know, I don't know how to code complex things.
